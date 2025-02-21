@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AKOLAD - Atelye Kreyasyon, Oryantasyon, Leadership ak Aksyon pou Devlòpman</title>
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+        }
+
+        header {
+            background-color: #008000;
+            color: white;
+            padding: 20px;
+            text-align: center;14:55 21/02/202514:55 21/02/202514:55 21/02/202514:55 21/02/202514:55 21/02/202514:55 21/02/202514:55 21/02/202514:55 21/02/202514:55 21/02/202514:55 21/02/202514:55 21/02/202514:55 21/02/202514:55 21/02/202514:55 21/02/202514:55 21/02/202514:55 21/02/202514:55 21/02/202514:55 21/02/202514:55 21/02/202514:55 21/02/202514:55 21/02/202514:55 21/02/202514:55 21/02/202514:55 21/02/202514:55 21/02/202514:55 21/02/2025
+            position: relative;
+        }
+
+        .logo {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            width: 80px;
+            height: auto;
+        }
+
+        nav {
+            background-color: #0056b3;
+            text-align: center;
+            padding: 10px;
+        }
+
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        nav a:hover {
+            background-color: #d10000;
+            color: white;
+            border-radius: 5px;
+        }
+
+        section {
+            padding: 20px;
+            margin: 10px;
+            background-color: white;
+            border-left: 5px solid #008000;
+        }
+
+        footer {
+            background-color: #0056b3;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <img src="logo.png" alt="Logo AKOLAD" class="logo">
+        <h1>AKOLAD</h1>
+        <p>Atelye Kreyasyon, Oryantasyon, Leadership ak Aksyon pou Devlòpman</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Accueil</a>
+        <a href="#a-propos">À propos</a>
+        <a href="#projets">Nos projets</a>
+        <a href="#galerie">Galerie</a>
+        <a href="#don">Faire un don</a>
+        <a href="#membre">Devenir membre</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="accueil">
+        <h2>Bienvenue chez AKOLAD</h2>
+        <p>Nous œuvrons pour un changement positif dans notre communauté.</p>
+    </section>
+
+    <section id="page-accueil">
+        <h2>Page d'Accueil</h2>
+        <p>Découvrez notre mission, nos valeurs et nos actions pour le développement.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 AKOLAD - Atelye Kreyasyon, Oryantasyon, Leadership ak Aksyon pou Devlòpman | Tous droits réservés</p>
+    </footer>
+
+</body>
+</html>
+
